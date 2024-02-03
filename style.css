@@ -67,3 +67,8 @@ button:active {
 .operators:active {
   background-color: rgb(255, 255, 119);
 }
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
